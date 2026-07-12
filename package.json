@@ -1,0 +1,17 @@
+{
+  "name": "nutrigreen-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@google/genai": "^2.0.1",
+    "dotenv": "^16.6.1"
+  }
+}
