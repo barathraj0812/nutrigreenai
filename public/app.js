@@ -1,4 +1,4 @@
-const API = "https://nutrigreenai.onrender.com/";
+const API = "https://nutrigreenai.onrender.com";
 
 const ACTIVITY_LEVELS = [
   ["sedentary", "Sedentary", "Little movement"],
